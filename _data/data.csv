@@ -1,2 +1,2 @@
 venue,address,country,latitude,longitude,humandate,humantime,startdate,enddate,instructor,helper,carpentry,curriculum,title,slug,flavor
-eScience Center,"Science Park 140, 1098 XG Amsterdam",Netherlands,52.35695685,4.95433748205789,"December 24 - 26, 2021, CET",7:00 - 9:00,2021-12-24T00:00:00Z,2021-12-26T00:00:00Z,"Johan Hidding, Lieke de Boer, Mateusz Kuzak","Pushpanjali Pawar, Thijs van Lankveld","ds","ds-parallel",Christmas special test workshop,2021-12-24-dc-socsci-R-nlesc,R
+NA,online,NA,NA,NA,"september 20 - oktober 11, 2023",9:00 - 13:00 CEST,2023-09-19T22:00:00Z,2023-10-10T22:00:00Z,"Barbara Vreede, Lieke de Boer, Eva Viviani",Dani Bodor,ds,ds-rpackaging,Reproducible research with R packages,2023-09-20-ds-rpackaging,NA
