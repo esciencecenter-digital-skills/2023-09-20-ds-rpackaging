@@ -24,7 +24,7 @@ jobs:
                 reader = csv.DictReader(csvfile)
                 for row in reader:
                     curriculum = row['curriculum']
-            link = f"https://raw.githubusercontent.com/esciencecenter-digital-skills/workshop-metadata/main/{curriculum}/lesson-url.md"
+            link = https://github.com/carpentries-incubator/lesson-R-packaging
             urlretrieve(link, "lesson-url.txt")
       - name: Run Carpentries Exercises Extractor
         run: caex2 "$(cat lesson-url.txt)" --output files/exercises-document.md
